@@ -1,0 +1,28 @@
+a = 90
+b = 50
+c = 86
+d = 38
+# Bitwise and of Two variabels (&)
+print(" a & b = ", a&b)
+print(" c & d = ", c&d)
+# Bitwise OR of Two variabels (|)
+print(" a | b = ", a|b)
+print(" c | d = ", c|d)
+# Bitwise not  (-)
+print("-a = ", -a)
+print("-b = ", -b)
+print("-c = ", -c)
+print("-d = ", -d)
+# Bitwise XOR two variabels (^) (Sum)
+print("Devision Of a and b = ", a^b)
+print("Devision Of c and d = ", c^d)
+# Bitwise right shift of two variabels (>>)
+print("  a >> 2 = ", a>>2)
+print("  a >> 2 = ", b>>2)
+print("  c >> 2 = ", c>>2)
+print("  d >> 2 = ", d>>2)
+#	Bitwise left shift (<<)
+print("  a << 2 = ", a<<2)
+print("  a << 2 = ", b<<2)
+print("  c << 2 = ", c<<2)
+print("  d << 2 = ", d<<2)
