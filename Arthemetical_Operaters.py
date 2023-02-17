@@ -1,0 +1,25 @@
+a = 67
+b = 52
+c = 56
+d = 78
+# sum of Two variabels (+)
+print("Sum Of a + b = ", a+b)
+print("Sum of c + d = ", c+d)
+# Substacting of Two variabels (-)
+print("Substacting Of a - b = ", a-b)
+print("Substacting Of a - b = ", c-d)
+# Multiplication of Two variabels (*)
+print("Multipel Of a * b = ", a*b)
+print("Multipel Of d * c = ", d*c)
+# Devision of two variabels (/)
+print("Devision Of a and b = ", a/b)
+print("Devision Of c and d = ", c/d)
+# Floor Devision of two variabels (//)
+print(" Floor Devision Of a and b = ", a//b)
+print(" Floor Devision Of c and d = ", c//d)
+#modula of two variabels (%)
+print("Mode Of a % b = ", a%b)
+print("Mode Of c % d = ", c%d)
+# Power of two variabels (**)
+print("Power Of a ** b = ", a**b)
+print("Power Of c ** d = ", c**d)
